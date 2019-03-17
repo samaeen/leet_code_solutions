@@ -1,0 +1,7 @@
+831. Masking Personal Information
+848. Shifting Letters
+12. Integer to Roman
+345. Reverse Vowels of a String
+118. Pascal Triangle
+541. Reverse String II
+258. Add Digits
