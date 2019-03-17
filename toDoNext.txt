@@ -5,3 +5,6 @@
 118. Pascal Triangle
 541. Reverse String II
 258. Add Digits
+461. Hamming Distance
+500. Keyboard Row
+557. Reverse Words in a String III
