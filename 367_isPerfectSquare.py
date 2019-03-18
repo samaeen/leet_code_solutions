@@ -4,6 +4,8 @@ class Solution:
     	b=float(str(num**(1/2)))
     	if a==b:
     		print('ok')
+    	else:
+    		return False
 
 
 num=16

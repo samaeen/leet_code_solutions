@@ -4,9 +4,13 @@
 345. Reverse Vowels of a String
 118. Pascal Triangle
 541. Reverse String II
-258. Add Digits
 461. Hamming Distance
 500. Keyboard Row
-557. Reverse Words in a String III
 575. Distribute Candies
 804. Unique Morse Code Words
+994. Rotting Oranges
+832. Flipping an Image
+171. Excel Sheet Column Number
+
+Learn Bit manipulation
+Learn Binary Tree
