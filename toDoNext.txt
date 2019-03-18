@@ -8,3 +8,5 @@
 461. Hamming Distance
 500. Keyboard Row
 557. Reverse Words in a String III
+575. Distribute Candies
+804. Unique Morse Code Words
