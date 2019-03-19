@@ -9,7 +9,6 @@
 575. Distribute Candies
 804. Unique Morse Code Words
 994. Rotting Oranges
-832. Flipping an Image
 171. Excel Sheet Column Number
 593. Valid Square
 
