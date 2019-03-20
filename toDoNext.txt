@@ -1,7 +1,7 @@
 831. Masking Personal Information
 316. Remove Duplicate Letters
 848. Shifting Letters
-824. Goat Latin
+71. Simplify Path
 766. Toeplitz Matrix
 874. Walking Robot Simulation
 12. Integer to Roman
@@ -26,6 +26,8 @@
 852. Peak Index in a Mountain Array
 771. Jewels and Stones
 88. Merge Sorted Array
+49. Group Anagrams
+383. Ransom Note
 
 
 Learn Bit manipulation
