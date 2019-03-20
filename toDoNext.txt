@@ -1,16 +1,32 @@
 831. Masking Personal Information
 848. Shifting Letters
+824. Goat Latin
+766. Toeplitz Matrix
+874. Walking Robot Simulation
 12. Integer to Roman
 345. Reverse Vowels of a String
 118. Pascal Triangle
+893. Groups of Special-Equivalent Strings
 541. Reverse String II
+697. Degree of an Array
 461. Hamming Distance
 500. Keyboard Row
 575. Distribute Candies
 804. Unique Morse Code Words
 994. Rotting Oranges
 171. Excel Sheet Column Number
+929. Unique Email Addresses
 593. Valid Square
+1002. Find Common Characters
+551. Student Attendance Record I
+509. Fibonacci Number
+441. Arranging Coins
+520. Detect Capital
+852. Peak Index in a Mountain Array
+771. Jewels and Stones
+884. Uncommon Words from Two Sentences
+88. Merge Sorted Array
+316. Remove Duplicate Letters
 
 Learn Bit manipulation
 Learn Binary Tree
