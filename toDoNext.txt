@@ -18,16 +18,16 @@
 171. Excel Sheet Column Number
 929. Unique Email Addresses
 593. Valid Square
-1002. Find Common Characters
 551. Student Attendance Record I
 509. Fibonacci Number
-441. Arranging Coins
 520. Detect Capital
 852. Peak Index in a Mountain Array
-771. Jewels and Stones
 88. Merge Sorted Array
 49. Group Anagrams
+459. Repeated Substring Pattern
+950. Reveal Cards In Increasing Order
 383. Ransom Note
+1002. Find Common Characters
 
 
 Learn Bit manipulation
