@@ -20,7 +20,6 @@
 593. Valid Square
 551. Student Attendance Record I
 509. Fibonacci Number
-520. Detect Capital
 852. Peak Index in a Mountain Array
 88. Merge Sorted Array
 49. Group Anagrams
@@ -28,6 +27,8 @@
 950. Reveal Cards In Increasing Order
 383. Ransom Note
 1002. Find Common Characters
+1012. Complement of Base 10 Integer
+830. Positions of Large Groups
 
 
 Learn Bit manipulation
