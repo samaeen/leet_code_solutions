@@ -29,6 +29,8 @@
 1002. Find Common Characters
 1012. Complement of Base 10 Integer
 830. Positions of Large Groups
+908. Smallest Range I
+506. Relative Ranks
 
 
 Learn Bit manipulation
