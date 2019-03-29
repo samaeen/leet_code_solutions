@@ -31,7 +31,7 @@
 830. Positions of Large Groups
 908. Smallest Range I
 506. Relative Ranks
-
+78. Subsets
 
 Learn Bit manipulation
 Learn Binary Tree
@@ -40,4 +40,4 @@ Redo
 26,258,268,867,832
 
 Good-0
-35,43,167,414,415,283,441
+35,43,167,414,415,283,441,509
