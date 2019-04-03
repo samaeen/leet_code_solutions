@@ -32,12 +32,16 @@
 908. Smallest Range I
 506. Relative Ranks
 78. Subsets
+290. Word Pattern
+171. Excel Sheet Column Number
+168. Excel Sheet Column Title
+811. Subdomain Visit Count
 
 Learn Bit manipulation
 Learn Binary Tree
 
 Redo
-26,258,268,867,832
+26,258,268,867,832,171
 
 Good-0
 35,43,167,414,415,283,441,509
