@@ -33,15 +33,14 @@
 506. Relative Ranks
 78. Subsets
 290. Word Pattern
-171. Excel Sheet Column Number
 168. Excel Sheet Column Title
 811. Subdomain Visit Count
 796. Rotate String
 788. Rotated Digits
 748. Shortest Completing Word
 728. Self Dividing Numbers
-819. Most Common Word
 859. Buddy Strings
+796. Rotate String
 
 Learn Bit manipulation
 Learn Binary Tree
