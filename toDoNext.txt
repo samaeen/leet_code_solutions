@@ -23,6 +23,7 @@
 852. Peak Index in a Mountain Array
 88. Merge Sorted Array
 49. Group Anagrams
+670. Maximum Swap
 459. Repeated Substring Pattern
 950. Reveal Cards In Increasing Order
 383. Ransom Note
@@ -37,10 +38,12 @@
 811. Subdomain Visit Count
 796. Rotate String
 788. Rotated Digits
+42. Trapping Rain Water
 748. Shortest Completing Word
 728. Self Dividing Numbers
 859. Buddy Strings
 796. Rotate String
+80. Remove Duplicates from Sorted Array II
 
 Learn Bit manipulation
 Learn Binary Tree
