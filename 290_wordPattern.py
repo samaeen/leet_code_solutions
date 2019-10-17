@@ -1,9 +1,9 @@
 class Solution:
-    def wordPattern(self,pattern, str):
-    	pattern=pattern.split()
+    def wordPattern(self,pattern,str):
+    	str=str.split()
+    	for i in pattern:
+    		if
 
-    	print(pattern)
 
 
-
-Solution.wordPattern('abba','Fish Fish Good')
+Solution().wordPattern('abba','Good Fish Fish Good')
